@@ -7,7 +7,7 @@ I'm a 15-year-old Systems Development student at ETEC and a passionate basketbal
 - 🎓 First-year High School & Technical student in Systems Development (DS/ADS).
 - 🏀 Forward (Ala) basketball player — always aiming high on and off the court.
 - 🎯 Focused on improving my coding logic and building impactful projects.
-- 🌎 Long-term goal: Study in the USA.
+- 🌎 Long-term goal: Practice some Sport and Study in the USA..
 
 ## 🛠️ Tech Stack & Skills
 - **Programming Logic:** Learning and structuring clean code.
